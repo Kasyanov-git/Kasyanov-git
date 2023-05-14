@@ -1,4 +1,4 @@
-### Hi there 👋
+ ### Hi there 👋 My name is Nikita, and this is the repository of one of the ambitious 4th year students of the Don State Technical University!
 
 <!--
 **Kasyanov-git/Kasyanov-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
