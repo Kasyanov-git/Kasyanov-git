@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Nikita, and this is the repository of one of the ambitious 4th year students of the Don State Technical University!
-### \n\nHere are the main projects in which I played a key role. I will be glad to have a pleasant conversation on any line of code that you can find here!
+### Here are the main projects in which I played a key role. I will be glad to have a pleasant conversation on any line of code that you can find here!
 <!--
 **Kasyanov-git/Kasyanov-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
